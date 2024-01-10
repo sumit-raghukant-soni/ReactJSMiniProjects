@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+    margin: 5px 0px;
+    text-align: center;
+}
+
+thead{
+    border-radius: 0px;
+}
